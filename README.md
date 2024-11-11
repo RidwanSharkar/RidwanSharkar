@@ -1,5 +1,23 @@
 # [ENTER](https://ridwansharkar.github.io)
 
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical)
+
+![DevMetrics](https://github-readme-devmetrics.vercel.app/api?username=RidwanSharkar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSharkar&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Wrapped](https://wrapped.github.com/api/languages?username=RidwanSharkar)
+
+![Heatmap](https://github-contributions-chart.vercel.app/?username=RidwanSharkar)
+
+<iframe
+  src="https://profile.codersrank.io/widget/languages/RidwanSharkar/"
+  width="400"
+  height="300"
+></iframe>
+
+
+
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
