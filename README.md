@@ -1,7 +1,8 @@
 # [ENTER](https://ridwansharkar.github.io)
 
 
-![Tech Skill Tree](https://github.com/user-attachments/assets/fe2c7e35-20d3-47b6-87ab-8a23babcc368)
+![Tech Skill Tree](https://github.com/user-attachments/assets/cb2fd357-e0bd-4f18-b6c8-f718eee74059)
+
 
 
 
