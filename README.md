@@ -1,15 +1,9 @@
 # [ENTER](https://ridwansharkar.github.io)
 
 
-![Tech Skill Tree](https://github.com/user-attachments/assets/cb2fd357-e0bd-4f18-b6c8-f718eee74059)
 
+![Tech Skill Tree](https://github.com/user-attachments/assets/c8068c6a-0aa9-46e2-9e37-7f6ee8be5fe7)
 
-
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 48%;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical" alt="Repos Per Language" style="width: 48%;" />
-</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
