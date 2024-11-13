@@ -63,7 +63,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; gap: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 40%;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical" alt="Repos Per Language" style="width: 40%;" />
 </div>
