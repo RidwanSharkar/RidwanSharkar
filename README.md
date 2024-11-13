@@ -1,9 +1,25 @@
 # [ENTER](https://ridwansharkar.github.io)
 
+<div style="position: relative; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/7d4fff31-b3de-4d5d-a693-c4e7111d0b68" alt="Skill tech tree" />
+  <a href="https://ridwansharkar.github.io" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-decoration: none;">
+    <div style="
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      background-color: rgba(255, 255, 255, 0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: background-color 0.3s;
+    ">
+      <span style="font-size: 24px; color: black;">🔗</span>
+    </div>
+  </a>
+</div>
 
-![Skill tech tree](https://github.com/user-attachments/assets/7d4fff31-b3de-4d5d-a693-c4e7111d0b68)
-
-
+<details>
+  <summary>Click to reveal more information</summary>
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 48%;" />
@@ -52,3 +68,9 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+</details>
+
+---
+
+This is my README for my self-titled GitHub repo: [https://github.com/RidwanSharkar/RidwanSharkar](https://github.com/RidwanSharkar/RidwanSharkar), so this is intended to go on my profile home page.
