@@ -1,6 +1,6 @@
 <div style="position: relative; display: inline-block; max-width: 750px; width: 100%;">
   <a href="https://ridwansharkar.github.io" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/6144dba5-8769-4cae-b5a0-8cc0dd3de4e6" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
+    <img src="https://github.com/user-attachments/assets/d0bb12a8-305f-4513-a6e5-c75edd7da4e9" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
   <a href="https://ridwansharkar.github.io" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-decoration: none;">
     <div style="
@@ -19,6 +19,8 @@
 
 <details>
   <summary>Expand</summary>
+  
+  <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
