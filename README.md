@@ -1,5 +1,3 @@
-# [ENTER](https://ridwansharkar.github.io)
-
 <div style="position: relative; display: inline-block; max-width: 750px; width: 100%;">
   <a href="https://ridwansharkar.github.io" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/6144dba5-8769-4cae-b5a0-8cc0dd3de4e6" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
@@ -15,19 +13,12 @@
       align-items: center;
       transition: background-color 0.3s;
     " onmouseover="this.style.backgroundColor='rgba(255,255,255,1)';" onmouseout="this.style.backgroundColor='rgba(255,255,255,0.8)';">
-      <span style="font-size: 32px; color: black;">Enter</span>
     </div>
   </a>
 </div>
 
 <details>
   <summary>Expand</summary>
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 40%;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical" alt="Repos Per Language" style="width: 40%;" />
-</div>
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -72,5 +63,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 40%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical" alt="Repos Per Language" style="width: 40%;" />
+</div>
+
+
+
 </details>
+
+
 
