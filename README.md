@@ -1,8 +1,9 @@
 # [ENTER](https://ridwansharkar.github.io)
 
 
+![Skill tech tree](https://github.com/user-attachments/assets/7d4fff31-b3de-4d5d-a693-c4e7111d0b68)
 
-![Tech Skill Tree](https://github.com/user-attachments/assets/c8068c6a-0aa9-46e2-9e37-7f6ee8be5fe7)
+
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 48%;" />
