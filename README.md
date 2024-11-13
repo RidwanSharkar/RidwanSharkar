@@ -71,6 +71,3 @@
 
 </details>
 
----
-
-This is my README for my self-titled GitHub repo: [https://github.com/RidwanSharkar/RidwanSharkar](https://github.com/RidwanSharkar/RidwanSharkar), so this is intended to go on my profile home page.
