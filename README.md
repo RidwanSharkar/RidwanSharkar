@@ -13,26 +13,27 @@
       align-items: center;
       transition: background-color 0.3s;
     " onmouseover="this.style.backgroundColor='rgba(255,255,255,1)';" onmouseout="this.style.backgroundColor='rgba(255,255,255,0.8)';">
-      <span style="font-size: 32px; color: black;">Enter</span>
     </div>
   </a>
 </div>
 
 <details>
-  <summary>Expand</summary>
+  <summary>**Expand**</summary>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 48%;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical" alt="Repos Per Language" style="width: 48%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 40%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical" alt="Repos Per Language" style="width: 40%;" />
 </div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+</div>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
