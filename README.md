@@ -70,13 +70,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical" alt="Repos Per Language" style="width: 35%;" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 40px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 45%;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidwanSharkar&theme=radical" alt="Repos Per Language" style="width: 45%;" />
-</div>
-
-
-
 </details>
 
 
