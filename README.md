@@ -1,6 +1,6 @@
 <div style="position: relative; display: inline-block; max-width: 750px; width: 100%;">
   <a href="https://ridwansharkar.github.io" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/b2b85671-f901-4a11-aaa2-deea2eaa9425" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
+    <img src="https://github.com/user-attachments/assets/af0ca6e7-4bb6-4358-813e-63a1d0b77d8f" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
   <a href="https://ridwansharkar.github.io" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-decoration: none;">
     <div style="
