@@ -1,18 +1,18 @@
 # [ENTER](https://ridwansharkar.github.io)
 
-<div style="position: relative; display: inline-block;">
-  <img src="https://github.com/user-attachments/assets/6144dba5-8769-4cae-b5a0-8cc0dd3de4e6" alt="Skill tech tree" />
+<div style="position: relative; display: inline-block; max-width: 750px; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/6144dba5-8769-4cae-b5a0-8cc0dd3de4e6" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   <a href="https://ridwansharkar.github.io" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-decoration: none;">
     <div style="
       width: 75px;
       height: 75px;
       border-radius: 50%;
-      background-color: rgba(255, 255, 255, 0.5);
+      background-color: rgba(255, 255, 255, 0.8);
       display: flex;
       justify-content: center;
       align-items: center;
       transition: background-color 0.3s;
-    ">
+    " onmouseover="this.style.backgroundColor='rgba(255,255,255,1)';" onmouseout="this.style.backgroundColor='rgba(255,255,255,0.8)';">
       <span style="font-size: 24px; color: black;">🔗</span>
     </div>
   </a>
