@@ -17,10 +17,8 @@
   </a>
 </div>
 
-<details id="details-toggle">
-  <summary onclick="toggleDetailsText(this)">
-    Expand <span>&#9660;</span>
-  </summary>
+<details>
+  <summary>Expand</summary>
   <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -72,25 +70,3 @@
 </div>
 
 </details>
-
-<script>
-  function toggleDetailsText(summaryElement) {
-    const details = summaryElement.parentElement;
-    if (details.open) {
-      summaryElement.innerHTML = 'Expand <span>&#9660;</span>';
-    } else {
-      summaryElement.innerHTML = 'Hide <span>&#9650;</span>';
-    }
-  }
-
-  document.getElementById('details-toggle').addEventListener('toggle', function () {
-    const summary = this.querySelector('summary');
-    if (this.open) {
-      summary.innerHTML = 'Hide <span>&#9650;</span>';
-    } else {
-      summary.innerHTML = 'Expand <span>&#9660;</span>';
-    }
-  });
-</script>
-
-
