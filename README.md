@@ -64,6 +64,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidwanSharkar&theme=tokyonight" alt="Most Commit Language" style="width: 35%;" />
