@@ -17,6 +17,15 @@
   </a>
 </div>
 
+<!-- Add the second image directly under the banner -->
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://ridwansharkar.github.io/Eidolon/" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/891801e9-166b-42ab-a84c-99db0d30144c" 
+         alt="Eidolon" 
+         style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
+  </a>
+</div>
+
 <details>
   <summary>Expand</summary>
   <br>
