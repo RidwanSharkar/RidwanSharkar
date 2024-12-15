@@ -20,7 +20,7 @@
 <!-- Add the second image directly under the banner -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://ridwansharkar.github.io/Eidolon/" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/3dca4b10-45e2-4402-a766-7b3832c59682" 
+    <img src="https://github.com/user-attachments/assets/b2d90d8f-e923-4827-b36d-881d9441bc97" 
          alt="Eidolon" 
          style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
@@ -29,6 +29,7 @@
 <details>
   <summary>Expand</summary>
   <br>
+
 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
