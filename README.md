@@ -1,6 +1,6 @@
 <div style="position: relative; display: inline-block; max-width: 750px; width: 100%;">
   <a href="https://ridwansharkar.github.io" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/3db8c416-9193-425c-9365-6610b6b77a9e" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
+    <img src="https://github.com/user-attachments/assets/e75d431b-82b0-4363-bbfa-436fc5a0c5a7" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
   <a href="https://ridwansharkar.github.io" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-decoration: none;">
     <div style="
@@ -20,7 +20,7 @@
 <!-- Add the second image directly under the banner -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://ridwansharkar.github.io/Eidolon/" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/175cbd8f-d9c6-40e6-922d-bb2042086715" 
+    <img src="https://github.com/user-attachments/assets/4143758e-6e00-42ba-a922-ec838002f739" 
          alt="Eidolon" 
          style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
@@ -29,7 +29,6 @@
 <details>
   <summary>Expand</summary>
   <br>
-
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
