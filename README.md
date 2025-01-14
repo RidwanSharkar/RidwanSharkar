@@ -1,6 +1,6 @@
 <div style="position: relative; display: inline-block; max-width: 750px; width: 100%;">
   <a href="https://ridwansharkar.github.io" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/f2dbc24b-196d-454b-bdbe-d67967b0b3c3" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
+    <img src="https://github.com/user-attachments/assets/98204f76-b042-4ec2-8922-f6cf75193f87" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
   <a href="https://ridwansharkar.github.io" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-decoration: none;">
     <div style="
@@ -17,10 +17,11 @@
   </a>
 </div>
 
+
 <!-- Add the second image directly under the banner -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://ridwansharkar.github.io/Eidolon/" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/33d9cdcd-ebf2-482e-b6e9-e55f4282e683" 
+    <img src="https://github.com/user-attachments/assets/dbd3b775-1d5e-498e-b67e-c8c41d10583b" 
          alt="Eidolon" 
          style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
