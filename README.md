@@ -18,10 +18,10 @@
 </div>
 
 
-<!-- Add the second image directly under the banner -->
+<!-- second image directly under the banner -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://ridwansharkar.github.io/Eidolon/" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/dbd3b775-1d5e-498e-b67e-c8c41d10583b" 
+    <img src="https://github.com/user-attachments/assets/0ae46397-0e84-4293-9986-a94de521edde" 
          alt="Eidolon" 
          style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
