@@ -12,19 +12,17 @@
   50% { box-shadow: 0 0 40px rgba(255,69,0,0.8), 0 0 80px rgba(255,140,0,0.6), 0 0 120px rgba(255,20,147,0.5), inset 0 1px 0 rgba(255,255,255,0.3); }
 }
 @keyframes slideshow {
-  0%, 33.33% { opacity: 1; z-index: 1; }
-  33.34%, 66.66% { opacity: 0; z-index: 0; }
-  66.67%, 100% { opacity: 0; z-index: 0; }
+  0%, 33.333% { opacity: 1; }
+  33.334%, 100% { opacity: 0; }
 }
 @keyframes slideshow-2 {
-  0%, 33.33% { opacity: 0; z-index: 0; }
-  33.34%, 66.66% { opacity: 1; z-index: 1; }
-  66.67%, 100% { opacity: 0; z-index: 0; }
+  0%, 33.333% { opacity: 0; }
+  33.334%, 66.666% { opacity: 1; }
+  66.667%, 100% { opacity: 0; }
 }
 @keyframes slideshow-3 {
-  0%, 33.33% { opacity: 0; z-index: 0; }
-  33.34%, 66.66% { opacity: 0; z-index: 0; }
-  66.67%, 100% { opacity: 1; z-index: 1; }
+  0%, 66.666% { opacity: 0; }
+  66.667%, 100% { opacity: 1; }
 }
 .slideshow-container {
   position: relative;
@@ -37,22 +35,30 @@
   top: 0;
   left: 0;
   width: 100%;
+  opacity: 0;
+  animation-duration: 9s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+.slide img {
+  width: 100%;
+  max-width: 750px;
+  height: auto;
+  border-radius: 10px;
+  display: block;
 }
 .slide-1 {
   position: relative;
-  animation: slideshow 9s infinite;
-  opacity: 1;
-  z-index: 1;
+  animation-name: slideshow;
+  z-index: 3;
 }
 .slide-2 {
-  animation: slideshow-2 9s infinite;
-  opacity: 0;
-  z-index: 0;
+  animation-name: slideshow-2;
+  z-index: 2;
 }
 .slide-3 {
-  animation: slideshow-3 9s infinite;
-  opacity: 0;
-  z-index: 0;
+  animation-name: slideshow-3;
+  z-index: 1;
 }
 .btn-portfolio {
   padding: 16px 32px;
@@ -204,41 +210,17 @@
 <div class="slideshow-container">
   <!-- Slide 1: Portfolio -->
   <div class="slide slide-1">
-    <img src="https://github.com/user-attachments/assets/98204f76-b042-4ec2-8922-f6cf75193f87" alt="Skill tech tree" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
-    <a href="https://ridwansharkar.github.io" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-decoration: none;">
-      <div class="btn-portfolio">
-        <div class="shine"></div>
-        <div class="border-glow"></div>
-        <span style="font-size: 20px; filter: drop-shadow(0 0 8px rgba(138,43,226,0.8)); text-shadow: 0 0 10px rgba(255,255,255,0.9); transition: all 0.3s;">✨</span>
-        <span style="transition: all 0.3s;">PORTFOLIO</span>
-      </div>
-    </a>
+    <img src="https://github.com/user-attachments/assets/98204f76-b042-4ec2-8922-f6cf75193f87" alt="Skill tech tree" />
   </div>
 
   <!-- Slide 2: Avernus -->
   <div class="slide slide-2">
-    <img src="https://github.com/user-attachments/assets/b8152586-1a47-493a-8de8-4bb1af1eaabc" alt="Avernus" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
-    <a href="https://avernus.vercel.app/" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-decoration: none;">
-      <div class="btn-avernus">
-        <div class="shine"></div>
-        <div class="border-glow"></div>
-        <span style="font-size: 20px; filter: drop-shadow(0 0 8px rgba(0,255,255,0.8)); text-shadow: 0 0 10px rgba(255,255,255,0.9); transition: all 0.3s;">✨</span>
-        <span style="transition: all 0.3s;">AVERNUS</span>
-      </div>
-    </a>
+    <img src="https://github.com/user-attachments/assets/b8152586-1a47-493a-8de8-4bb1af1eaabc" alt="Avernus" />
   </div>
 
   <!-- Slide 3: Eidolon -->
   <div class="slide slide-3">
-    <img src="https://github.com/user-attachments/assets/9ff373a2-5184-4174-9ead-070ee55ad68c" alt="Eidolon" style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
-    <a href="https://eidolon-flame.vercel.app/" style="position: absolute; bottom: 20px; right: 20px; text-decoration: none;">
-      <div class="btn-eidolon">
-        <div class="shine"></div>
-        <div class="border-glow"></div>
-        <span style="font-size: 19px; filter: drop-shadow(0 0 8px rgba(255,69,0,0.8)); text-shadow: 0 0 10px rgba(255,255,255,0.9); transition: all 0.3s;">✨</span>
-        <span style="transition: all 0.3s;">EIDOLON</span>
-      </div>
-    </a>
+    <img src="https://github.com/user-attachments/assets/9ff373a2-5184-4174-9ead-070ee55ad68c" alt="Eidolon" />
   </div>
 </div>
 
