@@ -20,10 +20,11 @@
 <!-- second image directly under the banner -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://avernus.vercel.app/" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/80f4df7b-f4bc-400c-bbe9-bed74248f595" 
+    <img src="https://github.com/user-attachments/assets/59f29d0c-2124-461a-bc4d-e22f30088cbd" 
          alt="Avernus" 
          style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
   </a>
+
 </div>
 
 
