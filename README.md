@@ -19,16 +19,6 @@
 
 <!-- second image directly under the banner -->
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://avernus.vercel.app/" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/b8152586-1a47-493a-8de8-4bb1af1eaabc"
-         alt="Avernus" 
-         style="width: 100%; max-width: 750px; height: auto; border-radius: 10px;" />
-  </a>
-
-</div>
-
-<!-- third image directly under the banner -->
-<div style="text-align: center; margin-top: 20px;">
   <a href="https://eidolon-flame.vercel.app/" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/9ff373a2-5184-4174-9ead-070ee55ad68c" 
          alt="Eidolon" 
